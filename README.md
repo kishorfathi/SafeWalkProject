@@ -1,7 +1,6 @@
-🚨 Project Title:
-SafeWalk: A Personal Safety App with Real-Time SOS and Emergency Features
+🚨 SafeWalk: A Personal Safety App with Real-Time SOS and Emergency Features
 
-📘 Project Overview:
+📘 Overview:
 SafeWalk is a Flutter-powered personal safety mobile app designed to help users feel safe in any environment. It provides real-time location sharing, emergency SOS features, voice-activated alerts, and even fake call simulations to help users escape uncomfortable or dangerous situations.
 
 🎯 Objectives:
