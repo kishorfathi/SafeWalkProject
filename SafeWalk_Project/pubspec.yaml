@@ -1,0 +1,19 @@
+name: safewalk
+description: A personal safety app with SOS and voice activation.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^9.0.2
+  speech_to_text: ^6.3.0
+  url_launcher: ^6.1.7
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
